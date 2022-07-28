@@ -16,7 +16,7 @@
 		<div id="header">
 			<div align="center">
 				<marquee>
-					<a>Ê³Ò¢ÕßÉçÇøµÄµÚÒ»½×¶Î£¬ÕýÔÚ¿ª·¢ÖÐ¡£¡£¡£¡£¡£¡£</a>
+					<a>SBç¤¾åŒºçš„ç¬¬ä¸€é˜¶æ®µï¼Œæ­£åœ¨å¼€å‘ä¸­ã€‚ã€‚ã€‚ã€‚ã€‚ã€‚</a>
 				</marquee>
 			</div>
 		</div>
@@ -30,17 +30,17 @@
 			 			name = "";
 			 		}else{
 			 	 %>
-			 	 <%=name %>ÒÑµÇÂ¼
+			 	 <%=name %>å·²ç™»å½•
 			 	 <%
 			 	 	}
 			 	  %>
 			 </div>
 			 <div id="content">
 			 	<form method="post" action="LoginServlet" align="center">
-			 		ÓÃ»§Ãû£º<input type="text" name="name" value=""/>¿ÚÁî£¨Ê³Ò¢ÕßÉçÇøÖ÷ÈÄÕýÓî¸øµÄÈËÉç¿ÚÁî£©£º<input type="password" name="passwd" value="" style="width:155px"/><br>
+			 		ç”¨æˆ·åï¼š<input type="text" name="name" value=""/>å£ä»¤ï¼ˆé£Ÿå°§è€…ç¤¾åŒºä¸»é¥¶æ­£å®‡ç»™çš„äººç¤¾å£ä»¤ï¼‰ï¼š<input type="password" name="passwd" value="" style="width:155px"/><br>
 			 	<p>
-			 		<input type="submit" value="µÇÂ¼" name="submit" />
-			 		<input type="reset" value="µÇÂ¼" name="" />
+			 		<input type="submit" value="ç™»å½•" name="submit" />
+			 		<input type="reset" value="ç™»å½•" name="" />
 	 		 	</form>
 			 </div>
 		</div>
